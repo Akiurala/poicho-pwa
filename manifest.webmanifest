@@ -1,0 +1,9 @@
+{
+  "name": "ポイ帳 - ポイント獲得記録",
+  "short_name": "ポイ帳",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6faf7",
+  "theme_color": "#167747",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
